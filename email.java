@@ -1,6 +1,6 @@
 /*Applicazione che consente di inviare email tramite java, provider (Gmail). (mail.jar) (contiene tutte le classi javax.mail)
 activation.jar
-Si deve installaere un webService per il funzionamento, le librerie usate sono gia presenti all'interno (es: Wildfly, TomEE, JBoss, ecc)*/
+Si deve "installare" un Runtime Environments  per il funzionamento, le librerie usate sono gia presenti all'interno (es: Wildfly, TomEE, JBoss, ecc)*/
 
 package it.francesco.email;
  
