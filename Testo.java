@@ -1,6 +1,6 @@
 /* Dato un file di testo, le parole sono delimitate da uno spazi. Si contano le ripetizioni delle parole nel file.
 Si è utilizzata una mappa, una TreeMap. La TreeMap ci permette di mantenere ordinate le chiavi. Essendo un TreeMap<String.Integer> gli oggetti 
-chiave di tipo String sono gia comparabili. TreeMap utilizzera il compareTo di String. Quindi non è servito in qusto caso implementare altri comparatori.
+chiave di tipo String sono gia comparabili. TreeMap utilizzera il compareTo di String. Quindi non è servito in questo caso implementare altri comparatori.
 Il risultato sarà del tipo moto=0 (moto non si è ripetuto nessuna volta), casa=1 (la parola casa si è ripetuta 1 volta), ecc. 
 Esse verranno stampate in ordine alfabetico.
 All'interno sono presenti due implementazioni, HashMap e TreeMap. L'ordinamento di HashMap viene effettuata nel main (commentata la porzione di codice)*/
