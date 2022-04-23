@@ -45,9 +45,6 @@ public class Testo {
 		return nomeFile;
 	}
 
-	public void setNomeFile(String nomeFile) {
-		this.nomeFile = nomeFile;
-	}
 
 	public Testo(String nomeFile,TreeMap<String,Integer> mappa2) throws IOException {
 		
